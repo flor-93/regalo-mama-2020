@@ -32,6 +32,31 @@ const element = (
 );
 ReactDOM.render(element, document.getElementById('root'));
 
+const form = (
+  <form>
+    <fieldset>
+      <legend>Formulario</legend>
+      <label for="name">Nombre Completo</label>
+      <input id="name" type="text" name="nombre" value=""></input>
+      <br />
+
+      <label for="email">Correo electrónico</label>
+      <input id="email" type="email" name="email"></input>
+      <br />
+
+      <label for="asunto">Asunto</label>
+      <input id="asunto" type="text" name="asunto" value=""></input>
+      <br />
+
+      <label for="mensaje">Mensaje</label>
+      <br />
+      <textarea id="mensaje" name="mensaje" rows="4" cols="50">
+        Mensaje
+      </textarea>
+    </fieldset>
+  </form>
+);
+ReactDOM.render(form, document.getElementById('root'));
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
