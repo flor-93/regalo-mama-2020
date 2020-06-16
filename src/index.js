@@ -18,6 +18,20 @@ ReactDOM.render(
   </div>,
   document.getElementById('root'),
 );
+
+const element = (
+  <div>
+    <h1>Estudiá programación en Next-U</h1>
+    <p>
+      La mejor plataforma online para aprender el cursos que quieras, con la
+      mejor asesoria de tutores a disposicion del alumno, en ampla
+      dosponibilidad horaria
+    </p>
+    <a href="https://learn.nextu.com/">Next-U</a>
+  </div>
+);
+ReactDOM.render(element, document.getElementById('root'));
+
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
