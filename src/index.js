@@ -8,9 +8,16 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
-
+ReactDOM.render(
+  <div>
+    <p>
+      To get started, edit <code>src/App.js</code> and save to <b>reload</b>
+    </p>
+  </div>,
+  document.getElementById('root'),
+);
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA

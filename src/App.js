@@ -24,3 +24,16 @@ function App() {
 }
 
 export default App;
+
+const element = React.createElement(
+  'div',
+  '',
+  React.createElement(
+    'p',
+    '',
+    'To get started, edit ',
+    React.createElement('code', '', 'src/App.js '),
+    'and save to ',
+    React.createElement('b', '', 'reload.'),
+  ),
+);
