@@ -33,7 +33,7 @@ const element = (
 ReactDOM.render(element, document.getElementById('root'));
 
 const form = (
-  <form>
+  <form class="react-form">
     <fieldset>
       <legend>Formulario</legend>
       <label for="name">Nombre Completo</label>
@@ -50,9 +50,7 @@ const form = (
 
       <label for="mensaje">Mensaje</label>
       <br />
-      <textarea id="mensaje" name="mensaje" rows="4" cols="50">
-        Mensaje
-      </textarea>
+      <textarea id="mensaje" name="mensaje" rows="4" cols="50"></textarea>
     </fieldset>
   </form>
 );
