@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-//Lección 2 - Ejercicio 1
 /*
 ReactDOM.render(
   <React.StrictMode>
@@ -12,6 +11,8 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root'),
 );
+
+//Lección 2 - Ejercicio 1
 
 ReactDOM.render(
   <div>
@@ -265,63 +266,84 @@ ReactDOM.render(containerPreparation, document.getElementById('preparation'));
 //Lección 3 - Ejercicio 2
 const title = React.createElement('div', { id: 'title' }, 'Pestañas con react');
 
-ReactDOM.render(title, document.getElementById('container'));
+ReactDOM.render(title, document.querySelector('#container'));
 
 const createTabElement = React.createFactory('li');
 
-const tab1 = createTabElement({ class: 'tabs', type: 'none' }, 'Física');
-const tab2 = createTabElement({ class: 'tabs', type: 'none' }, 'Química');
-const tab3 = createTabElement({ class: 'tabs', type: 'none' }, 'Biología');
-const tab4 = createTabElement({ class: 'tabs', type: 'none' }, 'Inglés');
-const tab5 = createTabElement({ class: 'tabs', type: 'none' }, 'Sociales');
-const tab6 = createTabElement({ class: 'tabs', type: 'none' }, 'Historia');
-const tab7 = createTabElement({ class: 'tabs', type: 'none' }, 'Deporte');
+const tab1 = createTabElement(
+  { onClick: () => clickTabs(1), className: 'tabs', type: 'none', key: '1' },
+  'Física',
+);
+const tab2 = createTabElement(
+  { onClick: () => clickTabs(2), className: 'tabs', type: 'none', key: '2' },
+  'Química',
+);
+const tab3 = createTabElement(
+  { onClick: () => clickTabs(3), className: 'tabs', type: 'none', key: '3' },
+  'Biología',
+);
+const tab4 = createTabElement(
+  { onClick: () => clickTabs(4), className: 'tabs', type: 'none', key: '4' },
+  'Inglés',
+);
+const tab5 = createTabElement(
+  { onClick: () => clickTabs(5), className: 'tabs', type: 'none', key: '5' },
+  'Sociales',
+);
+const tab6 = createTabElement(
+  { onClick: () => clickTabs(6), className: 'tabs', type: 'none', key: '6' },
+  'Historia',
+);
+const tab7 = createTabElement(
+  { onClick: () => clickTabs(7), className: 'tabs', type: 'none', key: '7' },
+  'Deporte',
+);
 
 const tabs = [tab1, tab2, tab3, tab4, tab5, tab6, tab7];
 
 const listTabs = React.createElement('ul', { id: 'list-tabs' }, tabs);
 
-ReactDOM.render(listTabs, document.getElementById('tabs'));
+ReactDOM.render(listTabs, document.querySelector('#tabs'));
 
 const createParagraphElement = React.createFactory('p');
 
 const pGral = createParagraphElement(
-  '',
+  { key: '0' },
   'Ejemplo de pestañas creadas con elementos estáticos de React y CSS',
 );
 
 const pTab1 = createParagraphElement(
-  { class: 'info', id: 'fisica' },
+  { className: 'info', id: 'fisica', key: '1' },
   'La física (del latín physica, y este del griego antiguo φυσικός, «natural, relativo a la naturaleza»)1​ es la ciencia natural que estudia los componentes fundamentales del Universo, la energía, la materia, el espacio-tiempo y las interacciones fundamentales.',
 );
 
 const pTab2 = createParagraphElement(
-  { class: 'info', id: 'quimica' },
+  { className: 'info', id: 'quimica', key: '2' },
   'La química es la ciencia que estudia la composición, estructura y propiedades de la materia, así como los cambios que esta experimenta durante las reacciones químicas y su relación con la energía.',
 );
 
 const pTab3 = createParagraphElement(
-  { class: 'info', id: 'biologia' },
+  { className: 'info', id: 'biologia', key: '3' },
   'La biología (del griego βίος [bíos] "vida", y -λογία [-logía] "tratado, estudio, ciencia",1​ que se connota como la "ciencia de la vida"2​) es la rama de la ciencia que estudia los procesos naturales3​ de los organismos vivos,4​ considerando su anatomía, fisiología, evolución, desarrollo, distribución y relaciones.',
 );
 
 const pTab4 = createParagraphElement(
-  { class: 'info', id: 'ingles' },
+  { className: 'info', id: 'ingles', key: '4' },
   'El idioma inglés (English language o English, pronunciado /ˈɪŋɡlɪʃ/) es una lengua germánica occidental que surgió en los reinos anglosajones de Inglaterra y se extendió hasta el Norte en lo que se convertiría en el sudeste de Escocia, bajo la influencia del Reino de Northumbria.',
 );
 
 const pTab5 = createParagraphElement(
-  { class: 'info', id: 'sociales' },
+  { className: 'info', id: 'sociales', key: '5' },
   'Las ciencias sociales son las ramas de la ciencia relacionadas con la sociedad y el comportamiento humano.',
 );
 
 const pTab6 = createParagraphElement(
-  { class: 'info', id: 'historia' },
+  { className: 'info', id: 'historia', key: '6' },
   'La historia es la ciencia que tiene como objetivo el estudio de sucesos del pasado, tradicionalmente de la humanidad1​, y como método, el propio de las ciencias sociales/humanas, así como el de las ciencias naturales en un marco de interdisciplinariedad.',
 );
 
 const pTab7 = createParagraphElement(
-  { class: 'info', id: 'deporte' },
+  { className: 'info', id: 'deporte', key: '7' },
   'El deporte es una actividad reglamentada, normalmente de carácter competitivo y que puede mejorar la condición física2​ de quien lo practica, y además tiene propiedades que lo diferencian del juego.',
 );
 
@@ -332,12 +354,14 @@ const img1 = createImgElement({
     'https://concepto.de/wp-content/uploads/2018/08/f%C3%ADsica-e1534938838719.jpg',
   alt: 'fisica',
   width: '500',
+  key: 'a',
 });
 
 const img2 = createImgElement({
   src: 'https://cienciadehoy.com/wp-content/uploads/2019/05/89676620.jpg',
   alt: 'quimica',
   width: '500',
+  key: 'b',
 });
 
 const img3 = createImgElement({
@@ -345,6 +369,7 @@ const img3 = createImgElement({
     'https://www.ecestaticos.com/image/clipping/9714c7c06868f88fba1f532ee53e155d/nutrigenetica-la-biologia-molecular-en-el-campo-de-la-nutricion.jpg',
   alt: 'biologia',
   width: '500',
+  key: 'c',
 });
 
 const img4 = createImgElement({
@@ -352,6 +377,7 @@ const img4 = createImgElement({
     'https://imagenes.universia.net/gc/net/images/educacion/p/pr/pro/professores-ingles-concorrer-bolsa-estudar-eua-noticias.jpg',
   alt: 'ingles',
   width: '500',
+  key: 'd',
 });
 
 const img5 = createImgElement({
@@ -359,6 +385,7 @@ const img5 = createImgElement({
     'https://upload.wikimedia.org/wikipedia/commons/6/63/GlobalSocial_850.jpg',
   alt: 'sociales',
   width: '500',
+  key: 'e',
 });
 
 const img6 = createImgElement({
@@ -366,6 +393,7 @@ const img6 = createImgElement({
     'https://www.ecestaticos.com/imagestatic/clipping/af8/705/af87059eaa01d0ce789779b415c78134/como-se-debe-ensenar-la-historia.jpg?mtime=1579565836',
   alt: 'historia',
   width: '500',
+  key: 'f',
 });
 
 const img7 = createImgElement({
@@ -373,17 +401,72 @@ const img7 = createImgElement({
     'https://s.france24.com/media/display/6aca8d1a-7783-11ea-9cf2-005056bf87d6/w:1280/p:16x9/WEB%2005ABR%20DEPORTES%20PORTADA%20FOTO.webp',
   alt: 'deporte',
   width: '500',
+  key: 'g',
 });
 
 const physical = [pGral, pTab1, img1];
 const chemistry = [pGral, pTab2, img2];
 const biology = [pGral, pTab3, img3];
-const english = [pGral, pTab3, img4];
-const social = [pGral, pTab3, img5];
+const english = [pGral, pTab4, img4];
+const social = [pGral, pTab5, img5];
 const history = [pGral, pTab6, img6];
 const sport = [pGral, pTab7, img7];
 
-ReactDOM.render(physical, document.querySelector('#info'));
+const clickTabs = (id) => {
+  const tab = document.querySelectorAll('.tabs');
+  const content = document.querySelector('#info');
+
+  if (id === 1) {
+    ReactDOM.render(physical, content);
+
+    for (let i = 0; i < tab.length; i++) {
+      tab[i].classList.remove('tabOn');
+    }
+    tab[0].classList.add('tabOn');
+  } else if (id === 2) {
+    ReactDOM.render(chemistry, content);
+
+    for (let i = 0; i < tab.length; i++) {
+      tab[i].classList.remove('tabOn');
+    }
+    tab[1].classList.add('tabOn');
+  } else if (id === 3) {
+    ReactDOM.render(biology, content);
+
+    for (let i = 0; i < tab.length; i++) {
+      tab[i].classList.remove('tabOn');
+    }
+    tab[2].classList.add('tabOn');
+  } else if (id === 4) {
+    ReactDOM.render(english, content);
+
+    for (let i = 0; i < tab.length; i++) {
+      tab[i].classList.remove('tabOn');
+    }
+    tab[3].classList.add('tabOn');
+  } else if (id === 5) {
+    ReactDOM.render(social, content);
+
+    for (let i = 0; i < tab.length; i++) {
+      tab[i].classList.remove('tabOn');
+    }
+    tab[4].classList.add('tabOn');
+  } else if (id === 6) {
+    ReactDOM.render(history, content);
+
+    for (let i = 0; i < tab.length; i++) {
+      tab[i].classList.remove('tabOn');
+    }
+    tab[5].classList.add('tabOn');
+  } else if (id === 7) {
+    ReactDOM.render(sport, content);
+
+    for (let i = 0; i < tab.length; i++) {
+      tab[i].classList.remove('tabOn');
+    }
+    tab[6].classList.add('tabOn');
+  }
+};
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
