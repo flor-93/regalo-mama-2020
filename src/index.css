@@ -4,8 +4,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /*Lección 3 - Ejercicio 2*/
+  /*Lección 3 - Ejercicio 2
   background-color: #323232;
+  */
+  /*Lección 3 - Ejercicio 3*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 code {
@@ -34,6 +39,7 @@ code {
 
 /* Lección 3 - Ejercicio 2 */
 
+/*
 #title {
   margin: 30px 20px 40px;
   color: #eeeeee;
@@ -84,4 +90,57 @@ code {
   color: black;
   position: relative;
   z-index: 100;
+}
+*/
+
+/* Lección 3 - Ejercicio 3 */
+
+#form2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid #cccdce;
+  width: 800px;
+  height: 300px;
+  margin-top: 100px;
+}
+
+.content {
+  display: flex;
+  justify-content: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+
+.contentIcon {
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0091d8;
+  color: white;
+  padding: 3px;
+  margin-bottom: 10px;
+  position: relative;
+  z-index: 1;
+}
+
+input {
+  display: inline-flex;
+  width: 700px;
+  height: 30px;
+  margin-bottom: 10px;
+  padding-left: 7px;
+  color: #cccdce;
+  border-left: none !important;
+  border: 1px solid #cccdce;
+}
+
+button {
+  background-color: #0091d8;
+  border: none;
+  color: white;
+  width: 750px;
+  height: 40px;
 }

@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+// import App from './App';
 import * as serviceWorker from './serviceWorker';
+import '../node_modules/font-awesome/css/font-awesome.min.css';
+import './index.css';
 
 /*
 ReactDOM.render(
@@ -264,6 +265,7 @@ ReactDOM.render(containerPreparation, document.getElementById('preparation'));
 */
 
 //Lección 3 - Ejercicio 2
+/*
 const title = React.createElement('div', { id: 'title' }, 'Pestañas con react');
 
 ReactDOM.render(title, document.querySelector('#container'));
@@ -467,6 +469,70 @@ const clickTabs = (id) => {
     tab[6].classList.add('tabOn');
   }
 };
+*/
+
+//Lección 3 - Ejercicio 3
+/*
+const input = React.createFactory('input');
+let i;
+
+for(i = 1; i < 4; i++) {
+  const inputElement = input({ type: 'text'})
+}*/
+
+const form = (
+  <div id="gral">
+    <div className="content">
+      <div className="contentIcon">
+        <i className="fa fa-user"></i>
+      </div>
+      <input
+        type="text"
+        className="input"
+        name="name"
+        placeholder="Nombre de usuario"
+      />
+    </div>
+
+    <div className="content">
+      <div className="contentIcon">
+        <i className="fa fa-envelope"></i>
+      </div>
+      <input
+        type="email"
+        className="input"
+        name="mail"
+        placeholder="Correo Electrónico"
+      />
+    </div>
+
+    <div className="content">
+      <div className="contentIcon">
+        <i className="fa fa-key"></i>
+      </div>
+      <input
+        type="password"
+        className="input"
+        name="contraseña"
+        placeholder="Contraseña"
+      />
+    </div>
+  </div>
+);
+
+const title = (
+  <h1>
+    <b>Formulario de Registro</b>
+  </h1>
+);
+
+const button = (
+  <button>
+    <b>Regístrate</b>
+  </button>
+);
+
+ReactDOM.render([title, form, button], document.querySelector('#form2'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
