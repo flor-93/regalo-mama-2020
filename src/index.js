@@ -8,7 +8,6 @@ import aeropuertox3 from './img/aeropuerto-mama-cele-luji.jpg';
 import bailandoMama from './img/bailando-mama.jpg';
 import brindisFotoVieja from './img/brindis-mama-abuela-isabel-yaya.png';
 import capeletinisFb from './img/capeletinis-fb.jpg';
-import capeletinisFlor from './img/capeletinis-mama-flor.jpg';
 import lujiComiendoBebe from './img/cele-luji-comiendo-mama.jpg';
 import celeMamax2 from './img/cele-mamax2.jpg';
 import centroCultural from './img/centro-cultural.jpg';
@@ -135,16 +134,6 @@ const IMAGES = [
   {
     src: capeletinisFb,
     thumbnail: capeletinisFb,
-    tags: [
-      // { value: 'Ocean', title: 'Ocean' },
-      // { value: 'People', title: 'People' },
-    ],
-    caption: 'Boats (Jeshu John - designerspics.com)',
-  },
-
-  {
-    src: capeletinisFlor,
-    thumbnail: capeletinisFlor,
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -962,7 +951,7 @@ const App = () => (
 );
 
 render(<App />, document.querySelector('#content'));
-render(<Web />, document.body);
+// render(<Web />, document.body);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
