@@ -1,6 +1,13 @@
 html,
 body {
   margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#content {
+  width: 100%;
+  height: 100%;
 }
 
 .above-fold {
@@ -218,4 +225,73 @@ body {
   100% {
     transform: rotateX(-167deg) rotateY(-180deg) translateZ(-15px) scale(1.2);
   }
+}
+
+.box {
+  width: 500px;
+  height: 500px;
+  overflow: scroll;
+}
+
+.img-wrap {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+@keyframes side-fade-out {
+  0% {
+    opacity: 0.3;
+  }
+
+  20% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+.present-box.transition .side {
+  animation: side-fade-out 1s ease-in both;
+}
+
+@keyframes scale-up-center {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(10);
+    opacity: 0;
+  }
+}
+
+.present-box.transition .img-wrap {
+  animation: scale-up-center 1.3s ease-in both;
+}
+
+.hidden {
+  display: none;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.selected-image {
+  max-width: 90%;
+  max-height: 90%;
 }
