@@ -1,6 +1,6 @@
 import React from 'react';
-import Gallery from 'react-grid-gallery';
 import './gallery.css';
+// import Gallery from 'react-grid-gallery';
 
 import abrazoTiernis from './img/abrazo-tiernis.jpg';
 import acto2016Cele from './img/acto-2016-cele.jpg';
@@ -32,7 +32,6 @@ import hamsterMama from './img/hamster-hamtaro.jpg';
 import quinceLala from './img/familia-15-lala.jpg';
 import lalaCuernitos from './img/lala-cuernitos-mama.jpg';
 import lujiDanzaAbrazo from './img/luji-danza-abrazo-mama.jpg';
-import lujiDanzaAmarilla from './img/luji-danza-amarilla-mama.jpg';
 import mamaAbuelaBebes from './img/mama-abuela-bebes.png';
 import mamaAbuelaPaseando from './img/mama-abuela-paseando.png';
 import mamaAmaca from './img/mama-amaca-paraguaya.jpg';
@@ -56,11 +55,9 @@ import mapaPapaLujiArboles from './img/mama-papa-luji-arboles.jpg';
 import mamaPapaLujiLaguna from './img/mama-papa-luji-laguna.jpg';
 import mamaPapaLujiMartuDelfi from './img/mama-papa-luji-martu-delfi.jpg';
 import mamaPapaPregaleria from './img/mama-papa-pregaleria.jpg';
-import mamaPile from './img/mama-pile .jpg';
 import mamaViaje from './img/mama-viaje.jpg';
 import mamaVicenteQuince from './img/mama-vicente-15.png';
 import mariasMamaPrima from './img/marias-mama-claudia-prima.jpg';
-import mariasMama2 from './img/marias-y-mama-2.jpg';
 import mariasMama from './img/marias-y-mama.jpg';
 import microViajeX4 from './img/marias-y-mama.jpg';
 import nieveFamilia from './img/nieve.jpg';
@@ -99,8 +96,8 @@ const IMAGES = [
     src: acto2016Cele,
     thumbnail: acto2016Cele,
     tags: [
-      // { value: 'Ocean', title: 'Ocean' },
-      // { value: 'People', title: 'People' },
+      { value: 'Ocean', title: 'Ocean' },
+      { value: 'People', title: 'People' },
     ],
     caption: 'Boats (Jeshu John - designerspics.com)',
   },
@@ -381,16 +378,6 @@ const IMAGES = [
   },
 
   {
-    src: lujiDanzaAmarilla,
-    thumbnail: lujiDanzaAmarilla,
-    tags: [
-      // { value: 'Ocean', title: 'Ocean' },
-      // { value: 'People', title: 'People' },
-    ],
-    caption: 'Boats (Jeshu John - designerspics.com)',
-  },
-
-  {
     src: mamaAbuelaBebes,
     thumbnail: mamaAbuelaBebes,
     tags: [
@@ -621,16 +608,6 @@ const IMAGES = [
   },
 
   {
-    src: mamaPile,
-    thumbnail: mamaPile,
-    tags: [
-      // { value: 'Ocean', title: 'Ocean' },
-      // { value: 'People', title: 'People' },
-    ],
-    caption: 'Boats (Jeshu John - designerspics.com)',
-  },
-
-  {
     src: mamaViaje,
     thumbnail: mamaViaje,
     tags: [
@@ -653,16 +630,6 @@ const IMAGES = [
   {
     src: mariasMamaPrima,
     thumbnail: mariasMamaPrima,
-    tags: [
-      // { value: 'Ocean', title: 'Ocean' },
-      // { value: 'People', title: 'People' },
-    ],
-    caption: 'Boats (Jeshu John - designerspics.com)',
-  },
-
-  {
-    src: mariasMama2,
-    thumbnail: mariasMama2,
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -898,7 +865,6 @@ class CustomGallery extends React.Component {
           </div>
         ))}
         <div className="gallery-item"></div>
-        {/* <Gallery enableImageSelection={false} images={IMAGES} /> */}
       </div>
     );
   }

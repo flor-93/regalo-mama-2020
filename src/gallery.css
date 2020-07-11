@@ -20,3 +20,7 @@
   object-fit: cover;
   vertical-align: bottom;
 }
+
+.gallery-item {
+  margin: 2px;
+}
