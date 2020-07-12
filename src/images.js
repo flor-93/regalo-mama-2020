@@ -75,129 +75,6 @@ import tweetyMama from './img/tweety-mama.jpg';
 import veranoMamaAbuela from './img/verano-mama-abuela.png';
 import veranoMayasMamaAbuela from './img/verano-mayas-mama-abuela.png';
 import yayaLalaFlor from './img/yaya-lala-flor.jpg';
-import IMG20171227WA0026 from './mama-55/IMG-20171227-WA0026.jpg';
-import IMG20150626WA0000 from './mama-55/IMG-20150626-WA0000.jpg';
-import IMG20180225WA0085 from './mama-55/IMG-20180225-WA0085.jpg';
-import IMG20151010WA0003 from './mama-55/IMG-20151010-WA0003.jpg';
-import IMG20180225WA0091 from './mama-55/IMG-20180225-WA0091.jpg';
-import IMG20151010WA0005 from './mama-55/IMG-20151010-WA0005.jpg';
-import IMG20180226WA0047 from './mama-55/IMG-20180226-WA0047.jpg';
-import IMG20160116WA0002 from './mama-55/IMG-20160116-WA0002.jpg';
-import IMG20180226WA0052 from './mama-55/IMG-20180226-WA0052.jpg';
-import IMG20161002WA0014 from './mama-55/IMG-20161002-WA0014.jpg';
-import IMG20180228WA0006 from './mama-55/IMG-20180228-WA0006.jpg';
-import IMG20161002WA0017 from './mama-55/IMG-20161002-WA0017.jpg';
-import IMG20180228WA0068 from './mama-55/IMG-20180228-WA0068.jpg';
-import IMG20161105WA0017 from './mama-55/IMG-20161105-WA0017.jpg';
-import IMG20180228WA0073 from './mama-55/IMG-20180228-WA0073.jpg';
-import IMG20161114WA0009 from './mama-55/IMG-20161114-WA0009.jpg';
-import IMG20180303WA0034 from './mama-55/IMG-20180303-WA0034.jpg';
-import IMG20161114WA0022 from './mama-55/IMG-20161114-WA0022.jpg';
-import IMG20180304WA0006 from './mama-55/IMG-20180304-WA0006.jpg';
-import IMG20161114WA0026 from './mama-55/IMG-20161114-WA0026.jpg';
-import IMG20180505WA0155 from './mama-55/IMG-20180505-WA0155.jpeg';
-import IMG20161124WA0034 from './mama-55/IMG-20161124-WA0034.jpg';
-import IMG20180505WA0157 from './mama-55/IMG-20180505-WA0157.jpeg';
-import IMG20161212WA0005 from './mama-55/IMG-20161212-WA0005.jpg';
-import IMG20180511WA0082 from './mama-55/IMG-20180511-WA0082.jpg';
-import IMG20161212WA0009 from './mama-55/IMG-20161212-WA0009.jpg';
-import IMG20180511WA0086 from './mama-55/IMG-20180511-WA0086.jpg';
-import IMG20161217WA0006 from './mama-55/IMG-20161217-WA0006.jpg';
-import IMG20180511WA0088 from './mama-55/IMG-20180511-WA0088.jpg';
-import IMG20161217WA0009 from './mama-55/IMG-20161217-WA0009.jpg';
-import IMG20180525WA0034 from './mama-55/IMG-20180525-WA0034.jpeg';
-import IMG20170101WA0047 from './mama-55/IMG-20170101-WA0047.jpg';
-import IMG20180610WA0017 from './mama-55/IMG-20180610-WA0017.jpeg';
-import IMG20170101WA0049 from './mama-55/IMG-20170101-WA0049.jpg';
-import IMG20180818WA0049 from './mama-55/IMG-20180818-WA0049.jpg';
-import IMG20170101WA0051 from './mama-55/IMG-20170101-WA0051.jpg';
-import IMG_0463 from './mama-55/IMG_0463.JPG';
-import IMG20170130WA0047 from './mama-55/IMG-20170130-WA0047.jpg';
-import IMG_20180519_173947 from './mama-55/IMG_20180519_173947.jpg';
-import IMG20170214WA0005 from './mama-55/IMG-20170214-WA0005.jpg';
-import IMG_20180626_225147 from './mama-55/IMG_20180626_225147.jpg';
-import IMG20170219WA0009 from './mama-55/IMG-20170219-WA0009.jpg';
-import IMG_20180730_161143 from './mama-55/IMG_20180730_161143.jpg';
-import IMG20170224WA0002 from './mama-55/IMG-20170224-WA0002.jpg';
-import IMG_20180818_152916 from './mama-55/IMG_20180818_152916.jpg';
-import IMG20170309WA0001 from './mama-55/IMG-20170309-WA0001.jpg';
-import IMG_20180825_162807 from './mama-55/IMG_20180825_162807.jpg';
-import IMG20170309WA0003 from './mama-55/IMG-20170309-WA0003.jpg';
-import Imagen345 from './mama-55/Imagen 345.jpg';
-import IMG20170310WA0000 from './mama-55/IMG-20170310-WA0000.jpg';
-import Imagen359 from './mama-55/Imagen 359.jpg';
-import IMG20170310WA0008 from './mama-55/IMG-20170310-WA0008.jpg';
-import Imagen375 from './mama-55/Imagen 375.jpg';
-import IMG20170310WA0009 from './mama-55/IMG-20170310-WA0009.jpg';
-import Labrujitaynosotros from './mama-55/La brujita y nosotros.jpg';
-import IMG20170310WA0010 from './mama-55/IMG-20170310-WA0010.jpg';
-import LalayCeleenpiledeeduerdo from './mama-55/Lala y Cele en pile de eduerdo.bmp';
-import IMG20170312WA0029 from './mama-55/IMG-20170312-WA0029.jpg';
-import Lalayyo from './mama-55/Lala y yo.jpg';
-import IMG20170324WA0018 from './mama-55/IMG-20170324-WA0018.jpg';
-import Lala from './mama-55/Lala.jpg';
-import IMG20170501WA0026 from './mama-55/IMG-20170501-WA0026.jpg';
-import LalitayFlor from './mama-55/Lalita y Flor.bmp';
-import IMG20170501WA0028 from './mama-55/IMG-20170501-WA0028.jpg';
-import Las4MariaenEscobar from './mama-55/Las 4 Maria en Escobar.bmp';
-import IMG20170626WA0003 from './mama-55/IMG-20170626-WA0003.jpeg';
-import Lujan3 from './mama-55/Lujan.bmp';
-import IMG20170627WA0006 from './mama-55/IMG-20170627-WA0006.jpeg';
-import Luji from './mama-55/Luji.bmp';
-import IMG20170629WA0001 from './mama-55/IMG-20170629-WA0001.jpg';
-import Luji2 from './mama-55/Luji.bmp';
-import IMG20170709WA0001 from './mama-55/IMG-20170709-WA0001.jpg';
-import PHOT0031 from './mama-55/PHOT0031.JPG';
-import IMG20170709WA0002 from './mama-55/IMG-20170709-WA0002.jpg';
-import lafamiilia from './mama-55/la famiilia.jpg';
-import IMG20170713WA0004 from './mama-55/IMG-20170713-WA0004.jpg';
-import lalaconlagalera from './mama-55/lala con la galera.jpg';
-import IMG20170715WA0002 from './mama-55/IMG-20170715-WA0002.jpg';
-import lalaycele from './mama-55/lala y cele.bmp';
-import IMG20170716WA0005 from './mama-55/IMG-20170716-WA0005.jpg';
-import lalayyoenunbarco from './mama-55/lala y yo en un barco.jpg';
-import IMG20170716WA0006 from './mama-55/IMG-20170716-WA0006.jpg';
-import lalayyo from './mama-55/lala y yo.bmp';
-import IMG20170716WA0007 from './mama-55/IMG-20170716-WA0007.jpg';
-import lalitayflorcita from './mama-55/lalita y florcita.jpg';
-import IMG20170716WA0008 from './mama-55/IMG-20170716-WA0008.jpg';
-import lalitadaniylolo from './mama-55/lalita, dani y lolo.bmp';
-import IMG20170717WA0003 from './mama-55/IMG-20170717-WA0003.jpg';
-import mamalance from './mama-55/mama-lance.jpg';
-import IMG20170724WA0020 from './mama-55/IMG-20170724-WA0020.jpg';
-import mamamayabata from './mama-55/mama-maya-bata.jpg';
-import IMG20170809WA0041 from './mama-55/IMG-20170809-WA0041.jpg';
-import mamavacaciones from './mama-55/mama-vacaciones.jpg';
-import IMG20170809WA0055 from './mama-55/IMG-20170809-WA0055.jpg';
-import moto_0313 from './mama-55/moto_0313.jpg';
-import IMG20170809WA0068 from './mama-55/IMG-20170809-WA0068.jpg';
-import moto_0314 from './mama-55/moto_0314.jpg';
-import IMG20170809WA0071 from './mama-55/IMG-20170809-WA0071.jpg';
-import moto_0336 from './mama-55/moto_0336.jpg';
-import IMG20170829WA0000 from './mama-55/IMG-20170829-WA0000.jpg';
-import moto_0598 from './mama-55/moto_0598.jpg';
-import IMG20170909WA0005 from './mama-55/IMG-20170909-WA0005.jpg';
-import moto_0742 from './mama-55/moto_0742.jpg';
-import IMG20170914WA0016 from './mama-55/IMG-20170914-WA0016.jpg';
-import moto_0743 from './mama-55/moto_0743.jpg';
-import IMG20170919WA0004 from './mama-55/IMG-20170919-WA0004.jpg';
-import moto_0745 from './mama-55/moto_0745.jpg';
-import IMG20170919WA0014 from './mama-55/IMG-20170919-WA0014.jpg';
-import moto_0749 from './mama-55/moto_0749.jpg';
-import IMG20170924WA0010 from './mama-55/IMG-20170924-WA0010.jpg';
-import moto_0854 from './mama-55/moto_0854.jpg';
-import IMG20170924WA0035 from './mama-55/IMG-20170924-WA0035.jpg';
-import moto_0856 from './mama-55/moto_0856.jpg';
-import IMG20171117WA0009 from './mama-55/IMG-20171117-WA0009.jpg';
-import moto_1023 from './mama-55/moto_1023.jpg';
-import IMG20171117WA0012 from './mama-55/IMG-20171117-WA0012.jpg';
-import moto_1241 from './mama-55/moto_1241.jpg';
-import IMG20171201WA0009 from './mama-55/IMG-20171201-WA0009.jpg';
-import moto_1243 from './mama-55/moto_1243.jpg';
-import IMG20171201WA0021 from './mama-55/IMG-20171201-WA0021.jpg';
-import moto_1267 from './mama-55/moto_1267.jpg';
-import IMG20171221WA0003 from './mama-55/IMG-20171221-WA0003.jpg';
-import moto_1599 from './mama-55/moto_1599.jpg';
 
 const IMAGES = [
   {
@@ -964,8 +841,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20171227WA0026,
-    thumbnail: IMG20171227WA0026,
+    src: 'https://mama-55.vercel.app/IMG-20171227-WA0026.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20171227-WA0026.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -974,8 +851,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20150626WA0000,
-    thumbnail: IMG20150626WA0000,
+    src: 'https://mama-55.vercel.app/IMG-20150626-WA0000.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20150626-WA0000.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -984,8 +861,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180225WA0085,
-    thumbnail: IMG20180225WA0085,
+    src: 'https://mama-55.vercel.app/IMG-20180225-WA0085.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180225-WA0085.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -994,8 +871,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20151010WA0003,
-    thumbnail: IMG20151010WA0003,
+    src: 'https://mama-55.vercel.app/IMG-20151010-WA0003.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20151010-WA0003.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1004,8 +881,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180225WA0091,
-    thumbnail: IMG20180225WA0091,
+    src: 'https://mama-55.vercel.app/IMG-20180225-WA0091.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180225-WA0091.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1014,8 +891,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20151010WA0005,
-    thumbnail: IMG20151010WA0005,
+    src: 'https://mama-55.vercel.app/IMG-20151010-WA0005.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20151010-WA0005.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1024,8 +901,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180226WA0047,
-    thumbnail: IMG20180226WA0047,
+    src: 'https://mama-55.vercel.app/IMG-20180226-WA0047.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180226-WA0047.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1034,8 +911,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20160116WA0002,
-    thumbnail: IMG20160116WA0002,
+    src: 'https://mama-55.vercel.app/IMG-20160116-WA0002.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20160116-WA0002.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1044,8 +921,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180226WA0052,
-    thumbnail: IMG20180226WA0052,
+    src: 'https://mama-55.vercel.app/IMG-20180226-WA0052.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180226-WA0052.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1054,8 +931,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161002WA0014,
-    thumbnail: IMG20161002WA0014,
+    src: 'https://mama-55.vercel.app/IMG-20161002-WA0014.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161002-WA0014.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1064,8 +941,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180228WA0006,
-    thumbnail: IMG20180228WA0006,
+    src: 'https://mama-55.vercel.app/IMG-20180228-WA0006.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180228-WA0006.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1074,8 +951,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161002WA0017,
-    thumbnail: IMG20161002WA0017,
+    src: 'https://mama-55.vercel.app/IMG-20161002-WA0017.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161002-WA0017.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1084,8 +961,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180228WA0068,
-    thumbnail: IMG20180228WA0068,
+    src: 'https://mama-55.vercel.app/IMG-20180228-WA0068.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180228-WA0068.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1094,8 +971,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161105WA0017,
-    thumbnail: IMG20161105WA0017,
+    src: 'https://mama-55.vercel.app/IMG-20161105-WA0017.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161105-WA0017.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1104,8 +981,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180228WA0073,
-    thumbnail: IMG20180228WA0073,
+    src: 'https://mama-55.vercel.app/IMG-20180228-WA0073.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180228-WA0073.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1114,8 +991,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161114WA0009,
-    thumbnail: IMG20161114WA0009,
+    src: 'https://mama-55.vercel.app/IMG-20161114-WA0009.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161114-WA0009.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1124,8 +1001,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180303WA0034,
-    thumbnail: IMG20180303WA0034,
+    src: 'https://mama-55.vercel.app/IMG-20180303-WA0034.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180303-WA0034.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1134,8 +1011,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161114WA0022,
-    thumbnail: IMG20161114WA0022,
+    src: 'https://mama-55.vercel.app/IMG-20161114-WA0022.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161114-WA0022.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1144,8 +1021,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180304WA0006,
-    thumbnail: IMG20180304WA0006,
+    src: 'https://mama-55.vercel.app/IMG-20180304-WA0006.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180304-WA0006.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1154,8 +1031,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161114WA0026,
-    thumbnail: IMG20161114WA0026,
+    src: 'https://mama-55.vercel.app/IMG-20161114-WA0026.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161114-WA0026.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1164,8 +1041,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180505WA0155,
-    thumbnail: IMG20180505WA0155,
+    src: 'https://mama-55.vercel.app/IMG-20180505-WA0155.jpeg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180505-WA0155.jpeg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1174,8 +1051,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161124WA0034,
-    thumbnail: IMG20161124WA0034,
+    src: 'https://mama-55.vercel.app/IMG-20161124-WA0034.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161124-WA0034.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1184,8 +1061,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180505WA0157,
-    thumbnail: IMG20180505WA0157,
+    src: 'https://mama-55.vercel.app/IMG-20180505-WA0157.jpeg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180505-WA0157.jpeg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1194,8 +1071,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161212WA0005,
-    thumbnail: IMG20161212WA0005,
+    src: 'https://mama-55.vercel.app/IMG-20161212-WA0005.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161212-WA0005.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1204,8 +1081,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180511WA0082,
-    thumbnail: IMG20180511WA0082,
+    src: 'https://mama-55.vercel.app/IMG-20180511-WA0082.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180511-WA0082.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1214,8 +1091,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161212WA0009,
-    thumbnail: IMG20161212WA0009,
+    src: 'https://mama-55.vercel.app/IMG-20161212-WA0009.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161212-WA0009.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1224,8 +1101,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180511WA0086,
-    thumbnail: IMG20180511WA0086,
+    src: 'https://mama-55.vercel.app/IMG-20180511-WA0086.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180511-WA0086.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1234,8 +1111,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161217WA0006,
-    thumbnail: IMG20161217WA0006,
+    src: 'https://mama-55.vercel.app/IMG-20161217-WA0006.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161217-WA0006.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1244,8 +1121,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180511WA0088,
-    thumbnail: IMG20180511WA0088,
+    src: 'https://mama-55.vercel.app/IMG-20180511-WA0088.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180511-WA0088.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1254,8 +1131,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20161217WA0009,
-    thumbnail: IMG20161217WA0009,
+    src: 'https://mama-55.vercel.app/IMG-20161217-WA0009.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20161217-WA0009.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1264,8 +1141,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180525WA0034,
-    thumbnail: IMG20180525WA0034,
+    src: 'https://mama-55.vercel.app/IMG-20180525-WA0034.jpeg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180525-WA0034.jpeg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1274,8 +1151,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170101WA0047,
-    thumbnail: IMG20170101WA0047,
+    src: 'https://mama-55.vercel.app/IMG-20170101-WA0047.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170101-WA0047.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1284,8 +1161,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180610WA0017,
-    thumbnail: IMG20180610WA0017,
+    src: 'https://mama-55.vercel.app/IMG-20180610-WA0017.jpeg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180610-WA0017.jpeg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1294,8 +1171,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170101WA0049,
-    thumbnail: IMG20170101WA0049,
+    src: 'https://mama-55.vercel.app/IMG-20170101-WA0049.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170101-WA0049.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1304,8 +1181,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20180818WA0049,
-    thumbnail: IMG20180818WA0049,
+    src: 'https://mama-55.vercel.app/IMG-20180818-WA0049.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20180818-WA0049.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1314,8 +1191,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170101WA0051,
-    thumbnail: IMG20170101WA0051,
+    src: 'https://mama-55.vercel.app/IMG-20170101-WA0051.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170101-WA0051.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1324,8 +1201,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG_0463,
-    thumbnail: IMG_0463,
+    src: 'https://mama-55.vercel.app/IMG_0463.JPG',
+    thumbnail: 'https://mama-55.vercel.app/IMG_0463.JPG',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1334,8 +1211,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170130WA0047,
-    thumbnail: IMG20170130WA0047,
+    src: 'https://mama-55.vercel.app/IMG-20170130-WA0047.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170130-WA0047.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1344,8 +1221,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG_20180519_173947,
-    thumbnail: IMG_20180519_173947,
+    src: 'https://mama-55.vercel.app/IMG_20180519_173947.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG_20180519_173947.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1354,8 +1231,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170214WA0005,
-    thumbnail: IMG20170214WA0005,
+    src: 'https://mama-55.vercel.app/IMG-20170214-WA0005.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170214-WA0005.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1364,8 +1241,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG_20180626_225147,
-    thumbnail: IMG_20180626_225147,
+    src: 'https://mama-55.vercel.app/IMG_20180626_225147.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG_20180626_225147.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1374,8 +1251,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170219WA0009,
-    thumbnail: IMG20170219WA0009,
+    src: 'https://mama-55.vercel.app/IMG-20170219-WA0009.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170219-WA0009.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1384,8 +1261,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG_20180730_161143,
-    thumbnail: IMG_20180730_161143,
+    src: 'https://mama-55.vercel.app/IMG_20180730_161143.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG_20180730_161143.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1394,8 +1271,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170224WA0002,
-    thumbnail: IMG20170224WA0002,
+    src: 'https://mama-55.vercel.app/IMG-20170224-WA0002.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170224-WA0002.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1404,8 +1281,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG_20180818_152916,
-    thumbnail: IMG_20180818_152916,
+    src: 'https://mama-55.vercel.app/IMG_20180818_152916.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG_20180818_152916.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1414,8 +1291,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170309WA0001,
-    thumbnail: IMG20170309WA0001,
+    src: 'https://mama-55.vercel.app/IMG-20170309-WA0001.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170309-WA0001.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1424,8 +1301,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG_20180825_162807,
-    thumbnail: IMG_20180825_162807,
+    src: 'https://mama-55.vercel.app/IMG_20180825_162807.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG_20180825_162807.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1434,8 +1311,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170309WA0003,
-    thumbnail: IMG20170309WA0003,
+    src: 'https://mama-55.vercel.app/IMG-20170309-WA0003.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170309-WA0003.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1444,8 +1321,8 @@ const IMAGES = [
   },
 
   {
-    src: Imagen345,
-    thumbnail: Imagen345,
+    src: 'https://mama-55.vercel.app/Imagen 345.jpg',
+    thumbnail: 'https://mama-55.vercel.app/Imagen 345.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1454,8 +1331,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170310WA0000,
-    thumbnail: IMG20170310WA0000,
+    src: 'https://mama-55.vercel.app/IMG-20170310-WA0000.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170310-WA0000.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1464,8 +1341,8 @@ const IMAGES = [
   },
 
   {
-    src: Imagen359,
-    thumbnail: Imagen359,
+    src: 'https://mama-55.vercel.app/Imagen 359.jpg',
+    thumbnail: 'https://mama-55.vercel.app/Imagen 359.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1474,8 +1351,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170310WA0008,
-    thumbnail: IMG20170310WA0008,
+    src: 'https://mama-55.vercel.app/IMG-20170310-WA0008.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170310-WA0008.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1484,8 +1361,8 @@ const IMAGES = [
   },
 
   {
-    src: Imagen375,
-    thumbnail: Imagen375,
+    src: 'https://mama-55.vercel.app/Imagen 375.jpg',
+    thumbnail: 'https://mama-55.vercel.app/Imagen 375.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1494,8 +1371,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170310WA0009,
-    thumbnail: IMG20170310WA0009,
+    src: 'https://mama-55.vercel.app/IMG-20170310-WA0009.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170310-WA0009.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1504,8 +1381,8 @@ const IMAGES = [
   },
 
   {
-    src: Labrujitaynosotros,
-    thumbnail: Labrujitaynosotros,
+    src: 'https://mama-55.vercel.app/La brujita y nosotros.jpg',
+    thumbnail: 'https://mama-55.vercel.app/La brujita y nosotros.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1514,8 +1391,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170310WA0010,
-    thumbnail: IMG20170310WA0010,
+    src: 'https://mama-55.vercel.app/IMG-20170310-WA0010.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170310-WA0010.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1524,8 +1401,8 @@ const IMAGES = [
   },
 
   {
-    src: LalayCeleenpiledeeduerdo,
-    thumbnail: LalayCeleenpiledeeduerdo,
+    src: 'https://mama-55.vercel.app/Lala y Cele en pile de eduerdo.bmp',
+    thumbnail: 'https://mama-55.vercel.app/Lala y Cele en pile de eduerdo.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1534,8 +1411,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170312WA0029,
-    thumbnail: IMG20170312WA0029,
+    src: 'https://mama-55.vercel.app/IMG-20170312-WA0029.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170312-WA0029.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1544,8 +1421,8 @@ const IMAGES = [
   },
 
   {
-    src: Lalayyo,
-    thumbnail: Lalayyo,
+    src: 'https://mama-55.vercel.app/Lala y yo.jpg',
+    thumbnail: 'https://mama-55.vercel.app/Lala y yo.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1554,8 +1431,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170324WA0018,
-    thumbnail: IMG20170324WA0018,
+    src: 'https://mama-55.vercel.app/IMG-20170324-WA0018.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170324-WA0018.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1564,8 +1441,8 @@ const IMAGES = [
   },
 
   {
-    src: Lala,
-    thumbnail: Lala,
+    src: 'https://mama-55.vercel.app/Lala.jpg',
+    thumbnail: 'https://mama-55.vercel.app/Lala.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1574,8 +1451,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170501WA0026,
-    thumbnail: IMG20170501WA0026,
+    src: 'https://mama-55.vercel.app/IMG-20170501-WA0026.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170501-WA0026.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1584,8 +1461,8 @@ const IMAGES = [
   },
 
   {
-    src: LalitayFlor,
-    thumbnail: LalitayFlor,
+    src: 'https://mama-55.vercel.app/Lalita y Flor.bmp',
+    thumbnail: 'https://mama-55.vercel.app/Lalita y Flor.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1594,8 +1471,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170501WA0028,
-    thumbnail: IMG20170501WA0028,
+    src: 'https://mama-55.vercel.app/IMG-20170501-WA0028.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170501-WA0028.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1604,8 +1481,8 @@ const IMAGES = [
   },
 
   {
-    src: Las4MariaenEscobar,
-    thumbnail: Las4MariaenEscobar,
+    src: 'https://mama-55.vercel.app/Las 4 Maria en Escobar.bmp',
+    thumbnail: 'https://mama-55.vercel.app/Las 4 Maria en Escobar.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1614,8 +1491,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170626WA0003,
-    thumbnail: IMG20170626WA0003,
+    src: 'https://mama-55.vercel.app/IMG-20170626-WA0003.jpeg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170626-WA0003.jpeg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1624,8 +1501,8 @@ const IMAGES = [
   },
 
   {
-    src: Lujan3,
-    thumbnail: Lujan3,
+    src: 'https://mama-55.vercel.app/Lujan.bmp',
+    thumbnail: 'https://mama-55.vercel.app/Lujan.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1634,8 +1511,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170627WA0006,
-    thumbnail: IMG20170627WA0006,
+    src: 'https://mama-55.vercel.app/IMG-20170627-WA0006.jpeg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170627-WA0006.jpeg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1644,8 +1521,8 @@ const IMAGES = [
   },
 
   {
-    src: Luji,
-    thumbnail: Luji,
+    src: 'https://mama-55.vercel.app/Luji.bmp',
+    thumbnail: 'https://mama-55.vercel.app/Luji.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1654,8 +1531,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170629WA0001,
-    thumbnail: IMG20170629WA0001,
+    src: 'https://mama-55.vercel.app/IMG-20170629-WA0001.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170629-WA0001.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1664,8 +1541,8 @@ const IMAGES = [
   },
 
   {
-    src: Luji2,
-    thumbnail: Luji2,
+    src: 'https://mama-55.vercel.app/Luji.bmp',
+    thumbnail: 'https://mama-55.vercel.app/Luji.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1674,8 +1551,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170709WA0001,
-    thumbnail: IMG20170709WA0001,
+    src: 'https://mama-55.vercel.app/IMG-20170709-WA0001.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170709-WA0001.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1684,8 +1561,8 @@ const IMAGES = [
   },
 
   {
-    src: PHOT0031,
-    thumbnail: PHOT0031,
+    src: 'https://mama-55.vercel.app/PHOT0031.JPG',
+    thumbnail: 'https://mama-55.vercel.app/PHOT0031.JPG',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1694,8 +1571,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170709WA0002,
-    thumbnail: IMG20170709WA0002,
+    src: 'https://mama-55.vercel.app/IMG-20170709-WA0002.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170709-WA0002.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1704,8 +1581,8 @@ const IMAGES = [
   },
 
   {
-    src: lafamiilia,
-    thumbnail: lafamiilia,
+    src: 'https://mama-55.vercel.app/la famiilia.jpg',
+    thumbnail: 'https://mama-55.vercel.app/la famiilia.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1714,8 +1591,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170713WA0004,
-    thumbnail: IMG20170713WA0004,
+    src: 'https://mama-55.vercel.app/IMG-20170713-WA0004.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170713-WA0004.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1724,8 +1601,8 @@ const IMAGES = [
   },
 
   {
-    src: lalaconlagalera,
-    thumbnail: lalaconlagalera,
+    src: 'https://mama-55.vercel.app/lala con la galera.jpg',
+    thumbnail: 'https://mama-55.vercel.app/lala con la galera.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1734,8 +1611,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170715WA0002,
-    thumbnail: IMG20170715WA0002,
+    src: 'https://mama-55.vercel.app/IMG-20170715-WA0002.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170715-WA0002.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1744,8 +1621,8 @@ const IMAGES = [
   },
 
   {
-    src: lalaycele,
-    thumbnail: lalaycele,
+    src: 'https://mama-55.vercel.app/lala y cele.bmp',
+    thumbnail: 'https://mama-55.vercel.app/lala y cele.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1754,8 +1631,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170716WA0005,
-    thumbnail: IMG20170716WA0005,
+    src: 'https://mama-55.vercel.app/IMG-20170716-WA0005.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170716-WA0005.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1764,8 +1641,8 @@ const IMAGES = [
   },
 
   {
-    src: lalayyoenunbarco,
-    thumbnail: lalayyoenunbarco,
+    src: 'https://mama-55.vercel.app/lala y yo en un barco.jpg',
+    thumbnail: 'https://mama-55.vercel.app/lala y yo en un barco.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1774,8 +1651,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170716WA0006,
-    thumbnail: IMG20170716WA0006,
+    src: 'https://mama-55.vercel.app/IMG-20170716-WA0006.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170716-WA0006.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1784,8 +1661,8 @@ const IMAGES = [
   },
 
   {
-    src: lalayyo,
-    thumbnail: lalayyo,
+    src: 'https://mama-55.vercel.app/lala y yo.bmp',
+    thumbnail: 'https://mama-55.vercel.app/lala y yo.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1794,8 +1671,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170716WA0007,
-    thumbnail: IMG20170716WA0007,
+    src: 'https://mama-55.vercel.app/IMG-20170716-WA0007.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170716-WA0007.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1804,8 +1681,8 @@ const IMAGES = [
   },
 
   {
-    src: lalitayflorcita,
-    thumbnail: lalitayflorcita,
+    src: 'https://mama-55.vercel.app/lalita y florcita.jpg',
+    thumbnail: 'https://mama-55.vercel.app/lalita y florcita.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1814,8 +1691,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170716WA0008,
-    thumbnail: IMG20170716WA0008,
+    src: 'https://mama-55.vercel.app/IMG-20170716-WA0008.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170716-WA0008.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1824,8 +1701,8 @@ const IMAGES = [
   },
 
   {
-    src: lalitadaniylolo,
-    thumbnail: lalitadaniylolo,
+    src: 'https://mama-55.vercel.app/lalita, dani y lolo.bmp',
+    thumbnail: 'https://mama-55.vercel.app/lalita, dani y lolo.bmp',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1834,8 +1711,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170717WA0003,
-    thumbnail: IMG20170717WA0003,
+    src: 'https://mama-55.vercel.app/IMG-20170717-WA0003.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170717-WA0003.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1844,8 +1721,8 @@ const IMAGES = [
   },
 
   {
-    src: mamalance,
-    thumbnail: mamalance,
+    src: 'https://mama-55.vercel.app/mama-lance.jpg',
+    thumbnail: 'https://mama-55.vercel.app/mama-lance.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1854,8 +1731,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170724WA0020,
-    thumbnail: IMG20170724WA0020,
+    src: 'https://mama-55.vercel.app/IMG-20170724-WA0020.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170724-WA0020.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1864,8 +1741,8 @@ const IMAGES = [
   },
 
   {
-    src: mamamayabata,
-    thumbnail: mamamayabata,
+    src: 'https://mama-55.vercel.app/mama-maya-bata.jpg',
+    thumbnail: 'https://mama-55.vercel.app/mama-maya-bata.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1874,8 +1751,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170809WA0041,
-    thumbnail: IMG20170809WA0041,
+    src: 'https://mama-55.vercel.app/IMG-20170809-WA0041.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170809-WA0041.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1884,8 +1761,8 @@ const IMAGES = [
   },
 
   {
-    src: mamavacaciones,
-    thumbnail: mamavacaciones,
+    src: 'https://mama-55.vercel.app/mama-vacaciones.jpg',
+    thumbnail: 'https://mama-55.vercel.app/mama-vacaciones.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1894,8 +1771,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170809WA0055,
-    thumbnail: IMG20170809WA0055,
+    src: 'https://mama-55.vercel.app/IMG-20170809-WA0055.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170809-WA0055.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1904,8 +1781,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0313,
-    thumbnail: moto_0313,
+    src: 'https://mama-55.vercel.app/moto_0313.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0313.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1914,8 +1791,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170809WA0068,
-    thumbnail: IMG20170809WA0068,
+    src: 'https://mama-55.vercel.app/IMG-20170809-WA0068.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170809-WA0068.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1924,8 +1801,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0314,
-    thumbnail: moto_0314,
+    src: 'https://mama-55.vercel.app/moto_0314.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0314.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1934,8 +1811,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170809WA0071,
-    thumbnail: IMG20170809WA0071,
+    src: 'https://mama-55.vercel.app/IMG-20170809-WA0071.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170809-WA0071.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1944,8 +1821,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0336,
-    thumbnail: moto_0336,
+    src: 'https://mama-55.vercel.app/moto_0336.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0336.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1954,8 +1831,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170829WA0000,
-    thumbnail: IMG20170829WA0000,
+    src: 'https://mama-55.vercel.app/IMG-20170829-WA0000.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170829-WA0000.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1964,8 +1841,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0598,
-    thumbnail: moto_0598,
+    src: 'https://mama-55.vercel.app/moto_0598.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0598.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1974,8 +1851,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170909WA0005,
-    thumbnail: IMG20170909WA0005,
+    src: 'https://mama-55.vercel.app/IMG-20170909-WA0005.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170909-WA0005.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1984,8 +1861,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0742,
-    thumbnail: moto_0742,
+    src: 'https://mama-55.vercel.app/moto_0742.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0742.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -1994,8 +1871,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170914WA0016,
-    thumbnail: IMG20170914WA0016,
+    src: 'https://mama-55.vercel.app/IMG-20170914-WA0016.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170914-WA0016.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2004,8 +1881,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0743,
-    thumbnail: moto_0743,
+    src: 'https://mama-55.vercel.app/moto_0743.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0743.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2014,8 +1891,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170919WA0004,
-    thumbnail: IMG20170919WA0004,
+    src: 'https://mama-55.vercel.app/IMG-20170919-WA0004.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170919-WA0004.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2024,8 +1901,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0745,
-    thumbnail: moto_0745,
+    src: 'https://mama-55.vercel.app/moto_0745.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0745.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2034,8 +1911,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170919WA0014,
-    thumbnail: IMG20170919WA0014,
+    src: 'https://mama-55.vercel.app/IMG-20170919-WA0014.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170919-WA0014.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2044,8 +1921,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0749,
-    thumbnail: moto_0749,
+    src: 'https://mama-55.vercel.app/moto_0749.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0749.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2054,8 +1931,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170924WA0010,
-    thumbnail: IMG20170924WA0010,
+    src: 'https://mama-55.vercel.app/IMG-20170924-WA0010.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170924-WA0010.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2064,8 +1941,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0854,
-    thumbnail: moto_0854,
+    src: 'https://mama-55.vercel.app/moto_0854.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0854.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2074,8 +1951,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20170924WA0035,
-    thumbnail: IMG20170924WA0035,
+    src: 'https://mama-55.vercel.app/IMG-20170924-WA0035.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20170924-WA0035.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2084,8 +1961,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_0856,
-    thumbnail: moto_0856,
+    src: 'https://mama-55.vercel.app/moto_0856.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_0856.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2094,8 +1971,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20171117WA0009,
-    thumbnail: IMG20171117WA0009,
+    src: 'https://mama-55.vercel.app/IMG-20171117-WA0009.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20171117-WA0009.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2104,8 +1981,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_1023,
-    thumbnail: moto_1023,
+    src: 'https://mama-55.vercel.app/moto_1023.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_1023.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2114,8 +1991,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20171117WA0012,
-    thumbnail: IMG20171117WA0012,
+    src: 'https://mama-55.vercel.app/IMG-20171117-WA0012.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20171117-WA0012.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2124,8 +2001,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_1241,
-    thumbnail: moto_1241,
+    src: 'https://mama-55.vercel.app/moto_1241.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_1241.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2134,8 +2011,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20171201WA0009,
-    thumbnail: IMG20171201WA0009,
+    src: 'https://mama-55.vercel.app/IMG-20171201-WA0009.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20171201-WA0009.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2144,8 +2021,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_1243,
-    thumbnail: moto_1243,
+    src: 'https://mama-55.vercel.app/moto_1243.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_1243.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2154,8 +2031,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20171201WA0021,
-    thumbnail: IMG20171201WA0021,
+    src: 'https://mama-55.vercel.app/IMG-20171201-WA0021.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20171201-WA0021.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2164,8 +2041,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_1267,
-    thumbnail: moto_1267,
+    src: 'https://mama-55.vercel.app/moto_1267.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_1267.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2174,8 +2051,8 @@ const IMAGES = [
   },
 
   {
-    src: IMG20171221WA0003,
-    thumbnail: IMG20171221WA0003,
+    src: 'https://mama-55.vercel.app/IMG-20171221-WA0003.jpg',
+    thumbnail: 'https://mama-55.vercel.app/IMG-20171221-WA0003.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -2184,8 +2061,8 @@ const IMAGES = [
   },
 
   {
-    src: moto_1599,
-    thumbnail: moto_1599,
+    src: 'https://mama-55.vercel.app/moto_1599.jpg',
+    thumbnail: 'https://mama-55.vercel.app/moto_1599.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
