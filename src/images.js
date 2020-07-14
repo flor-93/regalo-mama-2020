@@ -1,93 +1,15 @@
-import abrazoTiernis from './img/abrazo-tiernis.jpg';
-import acto2016Cele from './img/acto-2016-cele.jpg';
-import aeropuertox3 from './img/aeropuerto-mama-cele-luji.jpg';
-import bailandoMama from './img/bailando-mama.jpg';
-import brindisFotoVieja from './img/brindis-mama-abuela-isabel-yaya.png';
-import capeletinisFb from './img/capeletinis-fb.jpg';
-import lujiComiendoBebe from './img/cele-luji-comiendo-mama.jpg';
-import celeMamax2 from './img/cele-mamax2.jpg';
-import centroCultural from './img/centro-cultural.jpg';
-import chizzaInterior from './img/chizza-interior.jpg';
-import chizzaPuerta from './img/chizza-puerta.jpg';
-import conejoMama from './img/conejo-mama-luji.jpg';
-import cumple50Entrada from './img/cumple-50-entrada.jpg';
-import cumple50Torta from './img/cumple-50-torta.jpg';
-import cumple51 from './img/cumple-51.jpg';
-import cumple52 from './img/cumple-52.jpg';
-import cumple2007One from './img/cumple-2007-1.jpg';
-import cumple2007Two from './img/cumple-2007-2.jpg';
-import cumple2007Three from './img/cumple-2007-3.jpg';
-import cumple2014 from './img/cumple-2014.jpg';
-import cumpleLala2012 from './img/cumple-lala-2012.jpg';
-import egresoDaLala from './img/egreso-directora-de-arte-lala.jpg';
-import egresoJardinFlor from './img/egreso-jardin-flor.jpg';
-import egresoMama from './img/egreso-mama.png';
-import familiaAbuelaNorma from './img/familia-abuela-norma-parejas.jpg';
-import familiaAbuelas from './img/familia-con-abuelas.jpg';
-import hamsterMama from './img/hamster-hamtaro.jpg';
-import quinceLala from './img/familia-15-lala.jpg';
-import lalaCuernitos from './img/lala-cuernitos-mama.jpg';
-import lujiDanzaAbrazo from './img/luji-danza-abrazo-mama.jpg';
-import mamaAbuelaBebes from './img/mama-abuela-bebes.png';
-import mamaAbuelaPaseando from './img/mama-abuela-paseando.png';
-import mamaAmaca from './img/mama-amaca-paraguaya.jpg';
-import mamaAmigasAndrea from './img/mama-amigas-andrea.jpg';
-import mamaAsiento from './img/mama-asiento-exterior.jpg';
-import mamaCalzone from './img/mama-calzone.jpg';
-import mamaEscuela from './img/mama-escuela.jpg';
-import mamaFilmando from './img/mama-filmando-1997.png';
-import mamaJovenFlores from './img/mama-joven-flores.png';
-import mamaJovenRueda from './img/mama-joven-rueda.png';
-import mamaLalaFlorPeques from './img/mama-lala-flor-peques.jpg';
-import mamaLalaNavidad1997 from './img/mama-lala-navidad-1997.png';
-import mamaLanceAfuera from './img/mama-lance-afuera.jpg';
-import mamaLanceSilla from './img/mama-lance-silla.jpg';
-import mamaLanceUpa from './img/mama-lance-upa.jpg';
-import mamaLujiCeleNo from './img/mama-luji-celeno.jpg';
-import mamaMoreLuji from './img/mama-more-luji-x2.jpg';
-import mamaPrimaMaridos from './img/mama-papa-claudia-daniel.jpg';
-import mamaPapaComida from './img/mama-papa-comida.jpg';
-import mapaPapaLujiArboles from './img/mama-papa-luji-arboles.jpg';
-import mamaPapaLujiLaguna from './img/mama-papa-luji-laguna.jpg';
-import mamaPapaLujiMartuDelfi from './img/mama-papa-luji-martu-delfi.jpg';
-import mamaPapaPregaleria from './img/mama-papa-pregaleria.jpg';
-import mamaViaje from './img/mama-viaje.jpg';
-import mamaVicenteQuince from './img/mama-vicente-15.png';
-import mariasMamaPrima from './img/marias-mama-claudia-prima.jpg';
-import mariasMama from './img/marias-y-mama.jpg';
-import microViajeX4 from './img/marias-y-mama.jpg';
-import nieveFamilia from './img/nieve.jpg';
-import piletaPequesLalaFlor from './img/pileta-peques-lala-flor.jpg';
-import pizzasCasa2012Two from './img/pizzas-casa-2012-2.jpg';
-import pizzasCasa2015 from './img/pizzas-casa-2015.jpg';
-import previajeX4 from './img/previaje-mama-papa-cele-luji.jpg';
-import salidaComidaX2 from './img/salida-comida-x2.jpg';
-import salidaComida from './img/salida-comida.jpg';
-import salidaMamaLala from './img/salida-mama-lala.jpg';
-import salidaPileta from './img/salida-pileta.jpg';
-import simonMama from './img/simon-mama.jpg';
-import sonrisaPileta from './img/sonrisa-delantepileta.jpg';
-import starburcks from './img/starbucks-lala-mama.jpg';
-import temaiken2009One from './img/temaiken-2009-1.jpg';
-import temaiken2009Two from './img/temaiken-2009-2.jpg';
-import tiosPrimosX2Flia from './img/tios-primos-x2-flia-2013.jpg';
-import tweetyMama from './img/tweety-mama.jpg';
-import veranoMamaAbuela from './img/verano-mama-abuela.png';
-import veranoMayasMamaAbuela from './img/verano-mayas-mama-abuela.png';
-import yayaLalaFlor from './img/yaya-lala-flor.jpg';
-
 const IMAGES = [
   {
-    src: abrazoTiernis,
-    thumbnail: abrazoTiernis,
+    src: 'https://regalo-mama-img.vercel.app/abrazo-tiernis.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/abrazo-tiernis.jpg',
     // thumbnailHeight: 212,
     thumbnailHeight: 174,
     caption: 'After Rain (Jeshu John - designerspics.com)',
   },
 
   {
-    src: acto2016Cele,
-    thumbnail: acto2016Cele,
+    src: 'https://regalo-mama-img.vercel.app/acto-2016-cele.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/acto-2016-cele.jpg',
     tags: [
       { value: 'Ocean', title: 'Ocean' },
       { value: 'People', title: 'People' },
@@ -96,8 +18,9 @@ const IMAGES = [
   },
 
   {
-    src: aeropuertox3,
-    thumbnail: aeropuertox3,
+    src: 'https://regalo-mama-img.vercel.app/aeropuerto-mama-cele-luji.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/aeropuerto-mama-cele-luji.jpg',
     tags: [
       { value: 'Ocean', title: 'Ocean' },
       { value: 'People', title: 'People' },
@@ -106,13 +29,15 @@ const IMAGES = [
   },
 
   {
-    src: bailandoMama,
-    thumbnail: bailandoMama,
+    src: 'https://regalo-mama-img.vercel.app/bailando-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/bailando-mama.jpg',
   },
 
   {
-    src: brindisFotoVieja,
-    thumbnail: brindisFotoVieja,
+    src:
+      'https://regalo-mama-img.vercel.app/brindis-mama-abuela-isabel-yaya.png',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/brindis-mama-abuela-isabel-yaya.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -121,8 +46,8 @@ const IMAGES = [
   },
 
   {
-    src: capeletinisFb,
-    thumbnail: capeletinisFb,
+    src: 'https://regalo-mama-img.vercel.app/capeletinis-fb.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/capeletinis-fb.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -131,8 +56,8 @@ const IMAGES = [
   },
 
   {
-    src: lujiComiendoBebe,
-    thumbnail: lujiComiendoBebe,
+    src: 'https://regalo-mama-img.vercel.app/cele-luji-comiendo-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cele-luji-comiendo-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -141,8 +66,8 @@ const IMAGES = [
   },
 
   {
-    src: celeMamax2,
-    thumbnail: celeMamax2,
+    src: 'https://regalo-mama-img.vercel.app/cele-mamax2.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cele-mamax2.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -151,8 +76,8 @@ const IMAGES = [
   },
 
   {
-    src: centroCultural,
-    thumbnail: centroCultural,
+    src: 'https://regalo-mama-img.vercel.app/centro-cultural.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/centro-cultural.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -161,8 +86,8 @@ const IMAGES = [
   },
 
   {
-    src: chizzaInterior,
-    thumbnail: chizzaInterior,
+    src: 'https://regalo-mama-img.vercel.app/chizza-interior.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/chizza-interior.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -171,8 +96,8 @@ const IMAGES = [
   },
 
   {
-    src: chizzaPuerta,
-    thumbnail: chizzaPuerta,
+    src: 'https://regalo-mama-img.vercel.app/chizza-puerta.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/chizza-puerta.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -181,8 +106,8 @@ const IMAGES = [
   },
 
   {
-    src: conejoMama,
-    thumbnail: conejoMama,
+    src: 'https://regalo-mama-img.vercel.app/conejo-mama-luji.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/conejo-mama-luji.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -191,8 +116,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple50Entrada,
-    thumbnail: cumple50Entrada,
+    src: 'https://regalo-mama-img.vercel.app/cumple-50-entrada.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-50-entrada.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -201,8 +126,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple50Torta,
-    thumbnail: cumple50Torta,
+    src: 'https://regalo-mama-img.vercel.app/cumple-50-torta.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-50-torta.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -211,8 +136,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple51,
-    thumbnail: cumple51,
+    src: 'https://regalo-mama-img.vercel.app/cumple-51.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-51.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -221,8 +146,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple52,
-    thumbnail: cumple52,
+    src: 'https://regalo-mama-img.vercel.app/cumple-52.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-52.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -231,8 +156,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple2007One,
-    thumbnail: cumple2007One,
+    src: 'https://regalo-mama-img.vercel.app/cumple-2007-1.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-2007-1.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -241,8 +166,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple2007Two,
-    thumbnail: cumple2007Two,
+    src: 'https://regalo-mama-img.vercel.app/cumple-2007-2.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-2007-2.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -251,8 +176,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple2007Three,
-    thumbnail: cumple2007Three,
+    src: 'https://regalo-mama-img.vercel.app/cumple-2007-3.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-2007-3.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -261,8 +186,8 @@ const IMAGES = [
   },
 
   {
-    src: cumple2014,
-    thumbnail: cumple2014,
+    src: 'https://regalo-mama-img.vercel.app/cumple-2014.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-2014.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -271,8 +196,8 @@ const IMAGES = [
   },
 
   {
-    src: cumpleLala2012,
-    thumbnail: cumpleLala2012,
+    src: 'https://regalo-mama-img.vercel.app/cumple-lala-2012.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/cumple-lala-2012.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -281,8 +206,9 @@ const IMAGES = [
   },
 
   {
-    src: egresoDaLala,
-    thumbnail: egresoDaLala,
+    src: 'https://regalo-mama-img.vercel.app/egreso-directora-de-arte-lala.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/egreso-directora-de-arte-lala.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -291,8 +217,8 @@ const IMAGES = [
   },
 
   {
-    src: egresoJardinFlor,
-    thumbnail: egresoJardinFlor,
+    src: 'https://regalo-mama-img.vercel.app/egreso-jardin-flor.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/egreso-jardin-flor.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -301,8 +227,8 @@ const IMAGES = [
   },
 
   {
-    src: egresoMama,
-    thumbnail: egresoMama,
+    src: 'https://regalo-mama-img.vercel.app/egreso-mama.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/egreso-mama.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -311,8 +237,9 @@ const IMAGES = [
   },
 
   {
-    src: familiaAbuelaNorma,
-    thumbnail: familiaAbuelaNorma,
+    src: 'https://regalo-mama-img.vercel.app/familia-abuela-norma-parejas.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/familia-abuela-norma-parejas.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -321,8 +248,8 @@ const IMAGES = [
   },
 
   {
-    src: familiaAbuelas,
-    thumbnail: familiaAbuelas,
+    src: 'https://regalo-mama-img.vercel.app/familia-con-abuelas.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/familia-con-abuelas.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -331,8 +258,8 @@ const IMAGES = [
   },
 
   {
-    src: hamsterMama,
-    thumbnail: hamsterMama,
+    src: 'https://regalo-mama-img.vercel.app/hamster-hamtaro.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/hamster-hamtaro.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -341,8 +268,8 @@ const IMAGES = [
   },
 
   {
-    src: quinceLala,
-    thumbnail: quinceLala,
+    src: 'https://regalo-mama-img.vercel.app/familia-15-lala.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/familia-15-lala.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -351,8 +278,8 @@ const IMAGES = [
   },
 
   {
-    src: lalaCuernitos,
-    thumbnail: lalaCuernitos,
+    src: 'https://regalo-mama-img.vercel.app/lala-cuernitos-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/lala-cuernitos-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -361,8 +288,8 @@ const IMAGES = [
   },
 
   {
-    src: lujiDanzaAbrazo,
-    thumbnail: lujiDanzaAbrazo,
+    src: 'https://regalo-mama-img.vercel.app/luji-danza-abrazo-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/luji-danza-abrazo-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -371,8 +298,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaAbuelaBebes,
-    thumbnail: mamaAbuelaBebes,
+    src: 'https://regalo-mama-img.vercel.app/mama-abuela-bebes.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-abuela-bebes.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -381,8 +308,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaAbuelaPaseando,
-    thumbnail: mamaAbuelaPaseando,
+    src: 'https://regalo-mama-img.vercel.app/mama-abuela-paseando.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-abuela-paseando.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -391,8 +318,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaAmaca,
-    thumbnail: mamaAmaca,
+    src: 'https://regalo-mama-img.vercel.app/mama-amaca-paraguaya.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-amaca-paraguaya.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -401,8 +328,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaAmigasAndrea,
-    thumbnail: mamaAmigasAndrea,
+    src: 'https://regalo-mama-img.vercel.app/mama-amigas-andrea.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-amigas-andrea.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -411,8 +338,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaAsiento,
-    thumbnail: mamaAsiento,
+    src: 'https://regalo-mama-img.vercel.app/mama-asiento-exterior.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-asiento-exterior.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -421,8 +348,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaCalzone,
-    thumbnail: mamaCalzone,
+    src: 'https://regalo-mama-img.vercel.app/mama-calzone.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-calzone.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -431,8 +358,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaEscuela,
-    thumbnail: mamaEscuela,
+    src: 'https://regalo-mama-img.vercel.app/mama-escuela.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-escuela.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -441,8 +368,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaFilmando,
-    thumbnail: mamaFilmando,
+    src: 'https://regalo-mama-img.vercel.app/mama-filmando-1997.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-filmando-1997.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -451,8 +378,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaJovenFlores,
-    thumbnail: mamaJovenFlores,
+    src: 'https://regalo-mama-img.vercel.app/mama-joven-flores.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-joven-flores.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -461,8 +388,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaJovenRueda,
-    thumbnail: mamaJovenRueda,
+    src: 'https://regalo-mama-img.vercel.app/mama-joven-rueda.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-joven-rueda.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -471,8 +398,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaLalaFlorPeques,
-    thumbnail: mamaLalaFlorPeques,
+    src: 'https://regalo-mama-img.vercel.app/mama-lala-flor-peques.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-lala-flor-peques.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -481,8 +408,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaLalaNavidad1997,
-    thumbnail: mamaLalaNavidad1997,
+    src: 'https://regalo-mama-img.vercel.app/mama-lala-navidad-1997.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-lala-navidad-1997.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -491,8 +418,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaLanceAfuera,
-    thumbnail: mamaLanceAfuera,
+    src: 'https://regalo-mama-img.vercel.app/mama-lance-afuera.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-lance-afuera.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -501,8 +428,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaLanceSilla,
-    thumbnail: mamaLanceSilla,
+    src: 'https://regalo-mama-img.vercel.app/mama-lance-silla.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-lance-silla.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -511,8 +438,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaLanceUpa,
-    thumbnail: mamaLanceUpa,
+    src: 'https://regalo-mama-img.vercel.app/mama-lance-upa.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-lance-upa.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -521,8 +448,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaLujiCeleNo,
-    thumbnail: mamaLujiCeleNo,
+    src: 'https://regalo-mama-img.vercel.app/mama-luji-celeno.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-luji-celeno.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -531,8 +458,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaMoreLuji,
-    thumbnail: mamaMoreLuji,
+    src: 'https://regalo-mama-img.vercel.app/mama-more-luji-x2.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-more-luji-x2.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -541,8 +468,9 @@ const IMAGES = [
   },
 
   {
-    src: mamaPrimaMaridos,
-    thumbnail: mamaPrimaMaridos,
+    src: 'https://regalo-mama-img.vercel.app/mama-papa-claudia-daniel.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/mama-papa-claudia-daniel.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -551,8 +479,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaPapaComida,
-    thumbnail: mamaPapaComida,
+    src: 'https://regalo-mama-img.vercel.app/mama-papa-comida.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-papa-comida.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -561,8 +489,8 @@ const IMAGES = [
   },
 
   {
-    src: mapaPapaLujiArboles,
-    thumbnail: mapaPapaLujiArboles,
+    src: 'https://regalo-mama-img.vercel.app/mama-papa-luji-arboles.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-papa-luji-arboles.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -571,8 +499,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaPapaLujiLaguna,
-    thumbnail: mamaPapaLujiLaguna,
+    src: 'https://regalo-mama-img.vercel.app/mama-papa-luji-laguna.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-papa-luji-laguna.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -581,8 +509,9 @@ const IMAGES = [
   },
 
   {
-    src: mamaPapaLujiMartuDelfi,
-    thumbnail: mamaPapaLujiMartuDelfi,
+    src: 'https://regalo-mama-img.vercel.app/mama-papa-luji-martu-delfi.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/mama-papa-luji-martu-delfi.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -591,8 +520,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaPapaPregaleria,
-    thumbnail: mamaPapaPregaleria,
+    src: 'https://regalo-mama-img.vercel.app/mama-papa-pregaleria.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-papa-pregaleria.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -601,8 +530,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaViaje,
-    thumbnail: mamaViaje,
+    src: 'https://regalo-mama-img.vercel.app/mama-viaje.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-viaje.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -611,8 +540,8 @@ const IMAGES = [
   },
 
   {
-    src: mamaVicenteQuince,
-    thumbnail: mamaVicenteQuince,
+    src: 'https://regalo-mama-img.vercel.app/mama-vicente-15.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/mama-vicente-15.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -621,8 +550,9 @@ const IMAGES = [
   },
 
   {
-    src: mariasMamaPrima,
-    thumbnail: mariasMamaPrima,
+    src: 'https://regalo-mama-img.vercel.app/marias-mama-claudia-prima.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/marias-mama-claudia-prima.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -631,8 +561,8 @@ const IMAGES = [
   },
 
   {
-    src: mariasMama,
-    thumbnail: mariasMama,
+    src: 'https://regalo-mama-img.vercel.app/marias-y-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/marias-y-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -641,8 +571,8 @@ const IMAGES = [
   },
 
   {
-    src: microViajeX4,
-    thumbnail: microViajeX4,
+    src: 'https://regalo-mama-img.vercel.app/marias-y-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/marias-y-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -651,8 +581,8 @@ const IMAGES = [
   },
 
   {
-    src: nieveFamilia,
-    thumbnail: nieveFamilia,
+    src: 'https://regalo-mama-img.vercel.app/nieve.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/nieve.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -661,8 +591,8 @@ const IMAGES = [
   },
 
   {
-    src: piletaPequesLalaFlor,
-    thumbnail: piletaPequesLalaFlor,
+    src: 'https://regalo-mama-img.vercel.app/pileta-peques-lala-flor.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/pileta-peques-lala-flor.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -671,8 +601,8 @@ const IMAGES = [
   },
 
   {
-    src: pizzasCasa2012Two,
-    thumbnail: pizzasCasa2012Two,
+    src: 'https://regalo-mama-img.vercel.app/pizzas-casa-2012-2.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/pizzas-casa-2012-2.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -681,8 +611,8 @@ const IMAGES = [
   },
 
   {
-    src: pizzasCasa2015,
-    thumbnail: pizzasCasa2015,
+    src: 'https://regalo-mama-img.vercel.app/pizzas-casa-2015.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/pizzas-casa-2015.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -691,8 +621,9 @@ const IMAGES = [
   },
 
   {
-    src: previajeX4,
-    thumbnail: previajeX4,
+    src: 'https://regalo-mama-img.vercel.app/previaje-mama-papa-cele-luji.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/previaje-mama-papa-cele-luji.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -701,8 +632,8 @@ const IMAGES = [
   },
 
   {
-    src: salidaComidaX2,
-    thumbnail: salidaComidaX2,
+    src: 'https://regalo-mama-img.vercel.app/salida-comida-x2.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/salida-comida-x2.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -711,8 +642,8 @@ const IMAGES = [
   },
 
   {
-    src: salidaComida,
-    thumbnail: salidaComida,
+    src: 'https://regalo-mama-img.vercel.app/salida-comida.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/salida-comida.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -721,8 +652,8 @@ const IMAGES = [
   },
 
   {
-    src: salidaMamaLala,
-    thumbnail: salidaMamaLala,
+    src: 'https://regalo-mama-img.vercel.app/salida-mama-lala.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/salida-mama-lala.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -731,8 +662,8 @@ const IMAGES = [
   },
 
   {
-    src: salidaPileta,
-    thumbnail: salidaPileta,
+    src: 'https://regalo-mama-img.vercel.app/salida-pileta.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/salida-pileta.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -741,8 +672,8 @@ const IMAGES = [
   },
 
   {
-    src: simonMama,
-    thumbnail: simonMama,
+    src: 'https://regalo-mama-img.vercel.app/simon-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/simon-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -751,8 +682,8 @@ const IMAGES = [
   },
 
   {
-    src: sonrisaPileta,
-    thumbnail: sonrisaPileta,
+    src: 'https://regalo-mama-img.vercel.app/sonrisa-delantepileta.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/sonrisa-delantepileta.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -761,8 +692,8 @@ const IMAGES = [
   },
 
   {
-    src: starburcks,
-    thumbnail: starburcks,
+    src: 'https://regalo-mama-img.vercel.app/starbucks-lala-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/starbucks-lala-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -771,8 +702,8 @@ const IMAGES = [
   },
 
   {
-    src: temaiken2009One,
-    thumbnail: temaiken2009One,
+    src: 'https://regalo-mama-img.vercel.app/temaiken-2009-1.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/temaiken-2009-1.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -781,8 +712,8 @@ const IMAGES = [
   },
 
   {
-    src: temaiken2009Two,
-    thumbnail: temaiken2009Two,
+    src: 'https://regalo-mama-img.vercel.app/temaiken-2009-2.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/temaiken-2009-2.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -791,8 +722,9 @@ const IMAGES = [
   },
 
   {
-    src: tiosPrimosX2Flia,
-    thumbnail: tiosPrimosX2Flia,
+    src: 'https://regalo-mama-img.vercel.app/tios-primos-x2-flia-2013.jpg',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/tios-primos-x2-flia-2013.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -801,8 +733,8 @@ const IMAGES = [
   },
 
   {
-    src: tweetyMama,
-    thumbnail: tweetyMama,
+    src: 'https://regalo-mama-img.vercel.app/tweety-mama.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/tweety-mama.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -811,8 +743,8 @@ const IMAGES = [
   },
 
   {
-    src: veranoMamaAbuela,
-    thumbnail: veranoMamaAbuela,
+    src: 'https://regalo-mama-img.vercel.app/verano-mama-abuela.png',
+    thumbnail: 'https://regalo-mama-img.vercel.app/verano-mama-abuela.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -821,8 +753,9 @@ const IMAGES = [
   },
 
   {
-    src: veranoMayasMamaAbuela,
-    thumbnail: veranoMayasMamaAbuela,
+    src: 'https://regalo-mama-img.vercel.app/verano-mayas-mama-abuela.png',
+    thumbnail:
+      'https://regalo-mama-img.vercel.app/verano-mayas-mama-abuela.png',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
@@ -831,8 +764,8 @@ const IMAGES = [
   },
 
   {
-    src: yayaLalaFlor,
-    thumbnail: yayaLalaFlor,
+    src: 'https://regalo-mama-img.vercel.app/yaya-lala-flor.jpg',
+    thumbnail: 'https://regalo-mama-img.vercel.app/yaya-lala-flor.jpg',
     tags: [
       // { value: 'Ocean', title: 'Ocean' },
       // { value: 'People', title: 'People' },
